@@ -1,0 +1,245 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1\modelsim_ase\win32aloem
+vALU
+Z1 IlUWOR4:V]BLT3hBk4XPMZ1
+Z2 VCzaabM8N=RUY_S0<X_B]k3
+Z3 dC:\my_mips
+Z4 w1683442287
+Z5 8C:/my_mips/ALU.v
+Z6 FC:/my_mips/ALU.v
+L0 4
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@a@l@u
+Z10 !s100 ?D5B0:M33l^g5enN`0l[92
+Z11 !s108 1683556143.556000
+Z12 !s107 C:/my_mips/ALU.v|
+Z13 !s90 -reportprogress|300|-work|work|C:/my_mips/ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALUControl
+Z14 I]Fa;>MCj]?Bf8:?2C43LV1
+Z15 VA4fKoMiKBKZWK@;BBzRa53
+R3
+Z16 w1683318015
+Z17 8C:/my_mips/ALUControl.v
+Z18 FC:/my_mips/ALUControl.v
+L0 2
+R7
+r1
+31
+R8
+Z19 n@a@l@u@control
+Z20 !s100 :Q]:Tm`NR^@^14I?A>:]j3
+Z21 !s108 1683556143.628000
+Z22 !s107 C:/my_mips/ALUControl.v|
+Z23 !s90 -reportprogress|300|-work|work|C:/my_mips/ALUControl.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFA
+Z24 Ij:OF5<fW24gOjOI;?MW>a0
+Z25 VA=^?l^TdCln53;9]G:Cm53
+R3
+Z26 w1683441942
+Z27 8C:/my_mips/FA.v
+Z28 FC:/my_mips/FA.v
+L0 3
+R7
+r1
+31
+R8
+n@f@a
+Z29 !s100 :>ME_dm:8Y[m[nd^i?gAW0
+Z30 !s108 1683556143.682000
+Z31 !s107 C:/my_mips/FA.v|
+Z32 !s90 -reportprogress|300|-work|work|C:/my_mips/FA.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFA_ALU
+Z33 IeM>9_cjEXC>0<mh434MKd2
+Z34 V4Z;[AOAH:YcG?UE5:fhhP0
+R3
+Z35 w1683442067
+Z36 8C:/my_mips/FA_ALU.v
+Z37 FC:/my_mips/FA_ALU.v
+L0 3
+R7
+r1
+31
+R8
+Z38 n@f@a_@a@l@u
+Z39 !s100 XgilP4b6ni934EhA<KV051
+Z40 !s108 1683556143.734000
+Z41 !s107 C:/my_mips/FA_ALU.v|
+Z42 !s90 -reportprogress|300|-work|work|C:/my_mips/FA_ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFA_ALU32
+Z43 IDPdKC`@[XHJJL13lP_[l51
+Z44 VHhkoZ_jaHM`n4MJd2dS4G3
+R3
+Z45 w1683442171
+Z46 8C:/my_mips/FA_ALU32.v
+Z47 FC:/my_mips/FA_ALU32.v
+L0 3
+R7
+r1
+31
+R8
+Z48 n@f@a_@a@l@u32
+Z49 !s100 _jj2@>hPN?Y`h@kOjK:BU1
+Z50 !s108 1683556143.784000
+Z51 !s107 C:/my_mips/FA_ALU32.v|
+Z52 !s90 -reportprogress|300|-work|work|C:/my_mips/FA_ALU32.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vHiLo
+Z53 Id[OVVkh1TN>l6@^k@RTAk3
+Z54 V?oZ=0aTGh6z`93z=;C02F0
+R3
+Z55 w1683376608
+Z56 8C:/my_mips/HiLo.v
+Z57 FC:/my_mips/HiLo.v
+L0 2
+R7
+r1
+31
+R8
+Z58 n@hi@lo
+Z59 !s100 MaVj0BG4R;8>e@g`lAb@?2
+Z60 !s108 1683556143.832000
+Z61 !s107 C:/my_mips/HiLo.v|
+Z62 !s90 -reportprogress|300|-work|work|C:/my_mips/HiLo.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMultu
+Z63 In1ni:Bm36jU3fJG;SMeg`2
+Z64 VjnhbX55mE>g^^8PEeQ^>c3
+R3
+Z65 w1683442420
+Z66 8C:/my_mips/Multu.v
+Z67 FC:/my_mips/Multu.v
+L0 2
+R7
+r1
+31
+R8
+Z68 n@multu
+Z69 !s100 [cGF4_H4:D1@24]Ckj:?Q2
+Z70 !s108 1683556143.877000
+Z71 !s107 C:/my_mips/Multu.v|
+Z72 !s90 -reportprogress|300|-work|work|C:/my_mips/Multu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMUX
+Z73 I;fNI6iU9KGeZJUNDlR4]:2
+Z74 VK=M24OAb`N0^hLV?8lNiC3
+R3
+Z75 w1683442398
+Z76 8C:/my_mips/MUX.v
+Z77 FC:/my_mips/MUX.v
+L0 2
+R7
+r1
+31
+R8
+Z78 n@m@u@x
+Z79 !s100 kY`UlZeFZXhaZ0=QLMMhi3
+Z80 !s108 1683556143.924000
+Z81 !s107 C:/my_mips/MUX.v|
+Z82 !s90 -reportprogress|300|-work|work|C:/my_mips/MUX.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMux2to1
+Z83 I8g:jICV=BFCC`_G4V:C1?2
+Z84 VG<CoHk@7>i73ln3g`7LAY3
+R3
+Z85 w1683442613
+Z86 8C:/my_mips/Mux2to1.v
+Z87 FC:/my_mips/Mux2to1.v
+L0 4
+R7
+r1
+31
+R8
+Z88 n@mux2to1
+Z89 !s100 I3j43eMK5n7fkZj93;iP02
+Z90 !s108 1683556143.979000
+Z91 !s107 C:/my_mips/Mux2to1.v|
+Z92 !s90 -reportprogress|300|-work|work|C:/my_mips/Mux2to1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vShifter
+Z93 IiKK5T[5o3?WCTflHF@ok10
+Z94 V[ik3778AXTTM`oYV?NK]H3
+R3
+Z95 w1683554571
+Z96 8C:/my_mips/SRL.v
+Z97 FC:/my_mips/SRL.v
+L0 2
+R7
+r1
+31
+R8
+Z98 n@shifter
+Z99 !s100 ;OBDCoZM:QK@k_0[?RQi?2
+Z100 !s108 1683556144.029000
+Z101 !s107 C:/my_mips/SRL.v|
+Z102 !s90 -reportprogress|300|-work|work|C:/my_mips/SRL.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_ALU
+Z103 ILi64zM_I@G@4KRC7kA4?D0
+Z104 VJ;TnOjHFn3KbASFPGPEl41
+R3
+Z105 w1683382837
+Z106 8C:/my_mips/tb_ALU.v
+Z107 FC:/my_mips/tb_ALU.v
+L0 3
+R7
+r1
+31
+R8
+Z108 ntb_@a@l@u
+!i10b 1
+Z109 !s100 dTPRPLl82jcWKZ6H]X@AD3
+!s85 0
+Z110 !s108 1683556144.092000
+Z111 !s107 C:/my_mips/tb_ALU.v|
+Z112 !s90 -reportprogress|300|-work|work|C:/my_mips/tb_ALU.v|
+!s101 -O0
+vTotalALU
+!i10b 1
+!s100 UK2MWhhmR>j:KVVhJ0hz40
+IknMSzD72H?83;V`lYBeQW3
+VO4W_g]QI1L[lLGAePek`o2
+R3
+w1683442693
+8C:/my_mips/TotalALU.v
+FC:/my_mips/TotalALU.v
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1683556144.145000
+!s107 C:/my_mips/TotalALU.v|
+!s90 -reportprogress|300|-work|work|C:/my_mips/TotalALU.v|
+!s101 -O0
+R8
+n@total@a@l@u

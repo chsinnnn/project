@@ -1,0 +1,85 @@
+C:/my_mips/ALUControl.v {1 {vlog -work work C:/my_mips/ALUControl.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALUControl
+
+Top level modules:
+	ALUControl
+
+} {} {}} C:/my_mips/TotalALU.v {1 {vlog -work work C:/my_mips/TotalALU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TotalALU
+
+Top level modules:
+	TotalALU
+
+} {} {}} C:/my_mips/FA.v {1 {vlog -work work C:/my_mips/FA.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FA
+
+Top level modules:
+	FA
+
+} {} {}} C:/my_mips/Multu.v {1 {vlog -work work C:/my_mips/Multu.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Multu
+
+Top level modules:
+	Multu
+
+} {} {}} C:/my_mips/Mux2to1.v {1 {vlog -work work C:/my_mips/Mux2to1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Mux2to1
+
+Top level modules:
+	Mux2to1
+
+} {} {}} C:/my_mips/SRL.v {1 {vlog -work work C:/my_mips/SRL.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Shifter
+
+Top level modules:
+	Shifter
+
+} {} {}} C:/my_mips/ALU.v {1 {vlog -work work C:/my_mips/ALU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/my_mips/MUX.v {1 {vlog -work work C:/my_mips/MUX.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUX
+
+Top level modules:
+	MUX
+
+} {} {}} C:/my_mips/HiLo.v {1 {vlog -work work C:/my_mips/HiLo.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module HiLo
+
+Top level modules:
+	HiLo
+
+} {} {}} C:/my_mips/FA_ALU32.v {1 {vlog -work work C:/my_mips/FA_ALU32.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FA_ALU32
+
+Top level modules:
+	FA_ALU32
+
+} {} {}} C:/my_mips/tb_ALU.v {1 {vlog -work work C:/my_mips/tb_ALU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_ALU
+
+Top level modules:
+	tb_ALU
+
+} {} {}} C:/my_mips/FA_ALU.v {1 {vlog -work work C:/my_mips/FA_ALU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FA_ALU
+
+Top level modules:
+	FA_ALU
+
+} {} {}}
